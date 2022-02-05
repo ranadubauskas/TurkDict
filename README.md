@@ -4,7 +4,7 @@ This is a google chrome extension that replaces the default tab screen with Engl
 
 ## Demonstration
 
-//TBD
+![](demonstration.gif)
 
 ## Built With
 
