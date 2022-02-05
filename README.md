@@ -11,7 +11,7 @@ This is a google chrome extension that replaces the default tab screen with Engl
   - JavaScript
   - HTML
   - CSS
-  - React JS
+  - React.js
 
 ## Installation
 
