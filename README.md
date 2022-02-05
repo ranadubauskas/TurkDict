@@ -1,4 +1,4 @@
-# TurkDict Google Chrome Extension
+# TurkDict - A Google Chrome Extension
 
 This is a google chrome extension that replaces the default tab screen with English-Turkish translations to improve language fluency
 
